@@ -13,7 +13,7 @@
 // 中间View的宽度
 #define MiddleWidth 0.8*kScreenWidth
 
-static NSString *saoText = @"浏览器中输入www.saotiaooo.com\n扫码开启大屏模式";
+static NSString *saoText = @"将二维码/条形码放入框内，即可自动扫描";
 
 @interface SaoYiSaoViewController ()<UIAlertViewDelegate>
 {
